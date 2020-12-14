@@ -9,4 +9,4 @@ jobs:
       - uses: actions/checkout@v1
       - uses: ./action-a
         with:
-          MY_NAME: "enrichdev-git"
+          MY_NAME: "enrichdev-en"
